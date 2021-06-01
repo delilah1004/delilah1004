@@ -1,16 +1,40 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Daeun%20Lee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Client%20Developer%20with%20React%20Native&descAlignY=51&descAlign=62)
 
-<!--
-**delilah1004/delilah1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Delilah 👋
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning  Kotlin
+- 📫 How to reach me: ddeelee22@gamil.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilah1004&show_icons=true&count_private=true&bg_color=FFFFFF&icon_color=A16AB1&title_color=601870&hide=issues)<br>
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delilah1004&hide=python)<br> -->
+  <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=delilah1004) -->
+  
+</div>
+
+<div style="display:flex">
+  <h3>🛠 Tech Stack 🛠</h3>
+  <p>
+    <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-E54063?style=flat&logo=Kotlin&logoColor=white"/> 
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Mysql-3461AA?style=flat&logo=MySql&logoColor=white"/></a>&nbsp 
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  </p>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
