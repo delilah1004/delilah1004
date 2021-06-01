@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Daeun%20Lee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Client%20Developer%20with%20React%20Native&descAlignY=51&descAlign=62)
 
 ### Hi there, I'm Delilah 👋
-
-- 🌱 I’m currently learning  Kotlin
-- 📫 How to reach me: ddeelee22@gamil.com
+  - 🌱 I’m currently learning  Kotlin
+  - 📫 How to reach me: ddeelee22@gamil.com
 
 <div>
-  
+
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilah1004&show_icons=true&count_private=true&bg_color=FFFFFF&icon_color=A16AB1&title_color=601870&hide=issues)<br>
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delilah1004&hide=python)<br> -->
   <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=delilah1004) -->
-  
+
 </div>
 
 <div style="display:flex">
