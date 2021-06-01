@@ -18,8 +18,6 @@
   <p>
     <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  </p>
-  <p>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-E54063?style=flat&logo=Kotlin&logoColor=white"/> 
