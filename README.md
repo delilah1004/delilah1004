@@ -25,11 +25,7 @@
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-  </p>
-  <p>
     <img src="https://img.shields.io/badge/Mysql-3461AA?style=flat&logo=MySql&logoColor=white"/></a>&nbsp 
-  </p>
-  <p>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
   </p>
