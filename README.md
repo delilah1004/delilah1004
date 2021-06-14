@@ -4,7 +4,7 @@
 
   <h3>Hi there, I'm Delilah 👋</h3>
 <!--   <li>🌱 I’m currently learning  Kotlin</li> -->
-  <li>📫 How to reach me: ddeelee22@gamil.com</li><br>
+<!--   <li>📫 How to reach me: ddeelee22@gamil.com</li><br> -->
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilah1004&show_icons=true&count_private=true&bg_color=FFFFFF&icon_color=A16AB1&title_color=601870&hide=issues)<br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delilah1004&hide=python)<br> -->
