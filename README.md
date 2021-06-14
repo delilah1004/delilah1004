@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Daeun%20Lee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Client%20Developer%20with%20React%20Native&descAlignY=51&descAlign=62)
 
   <h3>Hi there, I'm Delilah 👋</h3>
-  <li>🌱 I’m currently learning  Kotlin</li>
+<!--   <li>🌱 I’m currently learning  Kotlin</li> -->
   <li>📫 How to reach me: ddeelee22@gamil.com</li><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=delilah1004&show_icons=true&count_private=true&bg_color=FFFFFF&icon_color=A16AB1&title_color=601870&hide=issues)<br>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kotlin-E54063?style=flat&logo=Kotlin&logoColor=white"/> 
+<!--     <img src="https://img.shields.io/badge/Kotlin-E54063?style=flat&logo=Kotlin&logoColor=white"/>  -->
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
