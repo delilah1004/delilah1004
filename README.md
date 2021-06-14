@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Daeun%20Lee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Client%20Developer%20with%20React%20Native&descAlignY=51&descAlign=62)
 
-  <h3>Hi there, I'm Delilah 👋</h3>
+<!--   <h3>Hi there, I'm Delilah 👋</h3> -->
 <!--   <li>🌱 I’m currently learning  Kotlin</li> -->
 <!--   <li>📫 How to reach me: ddeelee22@gamil.com</li><br> -->
   
