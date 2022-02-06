@@ -16,12 +16,12 @@
     <img src="https://img.shields.io/badge/Expo-1B1F23?style=flat-flat&logo=Expo&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> -->
 <!--     <img src="https://img.shields.io/badge/Kotlin-E54063?style=flat&logo=Kotlin&logoColor=white"/>  -->
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+<!--     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/Mysql-3461AA?style=flat&logo=MySql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
